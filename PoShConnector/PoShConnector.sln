@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoShConnectorCmd", "PoShConnectorCmd\PoShConnectorCmd.csproj", "{64FC5E01-54D9-4E22-86B7-4A3E9696AC93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "core", "core\core.csproj", "{EFD6EF32-FAED-48B8-88E1-5657F096A911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64FC5E01-54D9-4E22-86B7-4A3E9696AC93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64FC5E01-54D9-4E22-86B7-4A3E9696AC93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64FC5E01-54D9-4E22-86B7-4A3E9696AC93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64FC5E01-54D9-4E22-86B7-4A3E9696AC93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD6EF32-FAED-48B8-88E1-5657F096A911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD6EF32-FAED-48B8-88E1-5657F096A911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD6EF32-FAED-48B8-88E1-5657F096A911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD6EF32-FAED-48B8-88E1-5657F096A911}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
